@@ -5,7 +5,7 @@ cur = con.cursor()
 
 query = """ 
 
-SELECT * FROM komponenta INNER JOIN graficka ON komponenta.id = graficka.id_komponente;
+SELECT * FROM odabrane_komponente;
 
 """
 

@@ -7,3 +7,5 @@ from .ram import RAM
 from .ssd import SSD
 from .unos_komponente import unos_komponente
 from .ispis_komponenti import ispis_svih_komponenti
+from .odabir_komponenti import odabir_komponenti
+from .ispis_konfiguracija import ispis_konfiguracija

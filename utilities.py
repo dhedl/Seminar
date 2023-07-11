@@ -15,6 +15,7 @@ def unos_intervala(min, max):
         else:
             return broj
 
+
 def unos_cijelog_broja(poruka):
     while True:
         try:
@@ -31,6 +32,7 @@ def unos_cijelog_broja(poruka):
 
         else:
             return broj
+
 
 def unos_realnog_broja(poruka):
     while True:
